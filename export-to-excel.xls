@@ -1,0 +1,29 @@
+<table width='75%' cellspacing='0' cellpadding='2' border='1'>    
+    <tr>
+        <th>NAMA</th>
+        <th>JENIS KELAMIN</th>
+        <th>NISN</th>
+        <th>NIK</th>
+        <th>TEMPAT LAHIR</th>
+        <th>TANGGAL LAHIR</th>
+        <th>NO REGISTRASI</th>
+        <th>AGAMA</th>
+        <th>KEWARGANEGARAAN</th>
+        <th>KEBUTUHAN KHUSUS</th>
+        <th>ALAMAT JALAN</th>
+        <th>RT</th>
+        <th>RW</th>
+        <th>NAMA DUSUN</th>
+        <th>NAMA KELURAHAAN</th>
+        <th>NAMA KECAMATAAN</th>
+        <th>KODE POS</th>
+        <th>LINTANG</th>
+        <th>BUJUR</th>
+        <th>TEMPAT TINGGAL</th>
+        <th>M TRANS</th>
+        <th>NO KKS </th>
+        <th>ANAK KE-BRP</th>
+        <th>PENERIMA</th>
+        <th>NO KPS</th>
+    </tr><tr><td>Indah Maharani</td><td>Perempuan</td><td>1234567</td><td>35151702</td><td>Jember</td><td>2001-03-03</td><td>1321313</td><td>islam</td><td>Indonesia</td><td>Tidak</td><td>jl.tambak cemandi</td><td>07</td><td>02</td><td>Gisik Kidul</td><td>Tambak Cemandi</td><td>Sedati</td><td>61253</td><td>Selatan</td><td>Barat</td><td>Rumah ortu</td><td>Motor</td><td>1</td><td>1</td><td>Tidak</td><td>0</td></tr></table> <br> 
+ <a href="export.php"><button>Export to Excel</button></a><br />
